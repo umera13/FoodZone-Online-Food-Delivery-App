@@ -187,7 +187,7 @@ FoodZone
 
 # 📸 Application Screens
 
-- Home Page
+- Home Page (screenshots/FoodHome.png)
 - Restaurants Page
 - Menu Page
 - Cart Page
@@ -206,7 +206,7 @@ FoodZone
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FoodZone-Java-Full-Stack.git
+git clone https://github.com/umera13/FoodZone-Online-Food-Delivery-App.git
 ```
 
 ### Import Project
