@@ -187,17 +187,32 @@ FoodZone
 
 # 📸 Application Screens
 
-- Home Page (screenshots/FoodHome.png)
-- Restaurants Page
-- Menu Page
-- Cart Page
-- Checkout Page
-- Order Confirmation
-- My Orders
-- User Profile
-- Edit Profile
-- Login
-- Registration
+### Home Page
+![Home Page](screenshots/FoodHome.png)
+
+### Restaurants Page
+![Restaurants Page](screenshots/Restaurants.png)
+
+### Menu Page
+![Menu Page](screenshots/Menu.png)
+
+### Cart Page
+![Cart Page](screenshots/Cart.png)
+
+### Checkout Page
+![Checkout Page](screenshots/Checkout.png)
+
+### Order Confirmation
+![Order Confirmation](screenshots/OrderSuccess.png)
+
+### My Orders
+![My Orders](screenshots/MyOrders.png)
+
+### User Profile
+![User Profile](screenshots/Profile.png)
+
+### Edit Profile
+![Edit Profile](screenshots/EditProfile.png)
 
 ---
 
